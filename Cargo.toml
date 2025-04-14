@@ -7,3 +7,4 @@ edition = "2021"
 color-eyre = "0.6.3"
 crossterm = "0.29.0"
 ratatui = { version = "0.29.0", features = ["all-widgets"] }
+clap = { version = "4", features = ["derive"] }
